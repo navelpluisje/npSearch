@@ -1,4 +1,6 @@
 npSearch
 ========
 
-Esy to use jQuery search-plugin written for FAQ-search
+Easy to use jQuery search-plugin written for FAQ-search
+
+This document will soon be better
